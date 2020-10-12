@@ -9,7 +9,7 @@ function Message() {
       <Avatar />
       <div className="message__info">
         <h4>
-          Rupal<span className="message__timestamp">This is timestamp</span>
+          Rupal<span className="message__timestamp"> timestamp</span>
         </h4>
         <p>This is a message</p>
       </div>
